@@ -1,0 +1,33 @@
+2018-12-28 21:52:03 WARN  ExtentReporttListener:147 - TC1Test Skipped...org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-IA0DLJF', ip: '192.168.2.8', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: RemoteWebDriver
+2018-12-28 21:52:03 WARN  ExtentReporttListener:147 - TC5Test Skipped...org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-IA0DLJF', ip: '192.168.2.8', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: RemoteWebDriver
+2018-12-28 21:52:03 WARN  ExtentReporttListener:147 - TC7Test Skipped...org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-IA0DLJF', ip: '192.168.2.8', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: RemoteWebDriver
+2018-12-28 21:52:03 WARN  ExtentReporttListener:147 - TC3Test Skipped...org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-IA0DLJF', ip: '192.168.2.8', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: RemoteWebDriver
+2018-12-28 21:52:03 WARN  ExtentReporttListener:147 - TC6Test Skipped...org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-IA0DLJF', ip: '192.168.2.8', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: RemoteWebDriver
+2018-12-28 21:52:03 WARN  ExtentReporttListener:147 - TC2Test Skipped...org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-IA0DLJF', ip: '192.168.2.8', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: RemoteWebDriver
+2018-12-28 21:52:03 WARN  ExtentReporttListener:147 - TC4Test Skipped...org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-IA0DLJF', ip: '192.168.2.8', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: RemoteWebDriver
+2018-12-28 21:52:03 WARN  ExtentReporttListener:147 - TC8Test Skipped...org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-IA0DLJF', ip: '192.168.2.8', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: RemoteWebDriver
+2018-12-28 21:52:03 INFO  ExtentReporttListener:55 - ExtentWithParallelClasses Test Finished...

@@ -1,0 +1,21 @@
+2018-12-30 22:32:15 ERROR ExtentReporttListener:125 - TC3Test Failed...org.openqa.selenium.WebDriverException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'DESKTOP-IA0DLJF', ip: '192.168.2.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_192'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55045}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387), userDataDir=C:\Users\Admin\AppData\Local\Temp\scoped_dir9880_18545}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d4776c347ca37a17ce4ac061d26c1836
+Command duration or timeout: 7.27 seconds
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'DESKTOP-IA0DLJF', ip: '192.168.2.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_192'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55045}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387), userDataDir=C:\Users\Admin\AppData\Local\Temp\scoped_dir9880_18545}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, proxy={}, nativeEvents=true, webdriver.remote.sessionid=5d89d5fe-0b85-462b-93d7-c04acc28149d, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5d89d5fe-0b85-462b-93d7-c04acc28149d
+2018-12-30 22:32:16 INFO  ExtentReporttListener:75 - TC5 Test Started...
+2018-12-30 22:32:17 INFO  ExtentReporttListener:75 - TC4 Test Started...
+2018-12-30 22:32:17 WARN  ExtentReporttListener:147 - TC4Test Skipped...null
+2018-12-30 22:33:28 INFO  ExtentReporttListener:103 - TC5Test Passed...
+2018-12-30 22:33:28 INFO  ExtentReporttListener:75 - TC6 Test Started...
+2018-12-30 22:33:28 WARN  ExtentReporttListener:147 - TC6Test Skipped...null
+2018-12-30 22:35:06 INFO  ExtentReporttListener:75 - TC2 Test Started...
+2018-12-30 22:35:06 WARN  ExtentReporttListener:147 - TC2Test Skipped...null
+2018-12-30 22:35:07 INFO  ExtentReporttListener:55 - ExtentWithParallelClasses Test Finished...
